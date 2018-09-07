@@ -1,0 +1,111 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <meta charset="utf-8" />
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <title>Page Title</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+     <script src="main.js"></script>
+     <title>BLOCK & INLINE ELEMENT</title>
+ </head>
+
+ <body>
+        <H1>Block element</H1>
+        <p>Some elements will always
+                appear to start on a new line in
+                the browser window. These are
+                known as <b>block level</b> elements.</p>
+                <h2>Inline element</h2>
+                <p>Some elements will always
+                        appear to continue on the
+                        same line as their neighbouring
+                        elements. These are known as
+                        <b>inline elements</b>.</p>
+                        <h2 align="center">List of Block and Inline element</h2>
+    <table border="1" align="center" width="450" height="150">
+        <thead>
+        <tr>
+            <th> BLOCK ELEMENT</th>
+            <th> INLINE ELEMENT</th>
+            </tr>
+        </thead>
+        <tbody>
+         <tr>
+           <td>paragrah tag</td>
+             <td>bold tag</td>
+         </tr>
+         <tr>
+                <td>heading tag</td>
+                <td>etalic tag</td>
+            </tr>
+            <tr>
+                    <td>line break tag</td>
+                    <td>superscript tag</td>
+                </tr>
+                <tr>
+                        <td>horizontal line tag</td>
+                        <td>subscript tag</td>
+                    </tr>
+                    <tr>
+                      <td>order list</td>
+                      <td>strong tag</td>
+                    </tr>              
+                    <tr>
+                            <td>unorder list</td>
+                            <td>emphasis tag</td>
+                          </tr>              
+                          <tr>
+                                <td>definition term</td>
+                                <td>quotation tag</td>
+                              </tr>              
+                              <tr>
+                                    <td>definition container</td>
+                                    <td>abbrevation tag</td>
+                                  </tr>              
+                                  <tr>
+                                        <td>nested list</td>
+                                        <td>cite tag</td>
+                                      </tr>
+                                      <tr>
+                                            <td>figure</td>
+                                            <td>defination </td>
+                                          </tr>
+                                          <tr>
+                                              <td>figure caption</td>
+                                              <td>insert tag</td>
+                                          </tr>     
+                                          <tr>
+                                                <td>table tag</td>
+                                                <td>delet tag</td>
+                                            </tr>     
+                                            <tr>
+                                                    <td>table row</td>
+                                                    <td>ancher text</td>
+                                                </tr>     
+                                                <tr>
+                                                        <td>thed,tbody,tfoot</td>
+                                                        <td>image tag</td>
+                                                    </tr>     
+                                                    <tr>
+                                                            <td>form tag</td>
+                                                            <td>select tag</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>input tag</td>
+                                                            <td>select tag</td>
+                                                        </tr> 
+                                                        <tr>
+                                                            <td>legend tag</td>
+                                                            <td>label tag</td>
+                                                        </tr>
+                                                 </tbody>
+                                                
+    </table> 
+   <center> <p>insert map</p> 
+   <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1809.7262345793408!2d67.0667333791027!3d24.88254336376282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33eea39ffafe1%3A0x66f953936852019b!2sSaylani+Welfare+Masjid!5e0!3m2!1sen!2s!4v1515929056151" width="300" height="350" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+            
+
+     
+ </body>
+ </html>
